@@ -1,5 +1,12 @@
 # Learn More About code
 
-*git init
-*git add <files>
+# Commands
+```bash
+git init
+```
+```bash
+git add 
+```
+```bash
 *git commit -m "commit message"
+```
