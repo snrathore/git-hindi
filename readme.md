@@ -41,7 +41,7 @@ git branch -M main
 git 
 ```
 ```bash
-git git remote add origin https://github.com/snrathore/git-hindi.git
+git remote add origin https://github.com/snrathore/git-hindi.git
 ```
 ```bash
 git remote -v
@@ -50,8 +50,8 @@ git remote -v
 git push origin main
 ```
 ```bash
-git git push
+git push
 ```
 ```bash
-git git push -u origin main
+git push -u origin main
 ```
